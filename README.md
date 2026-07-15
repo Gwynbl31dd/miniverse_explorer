@@ -10,7 +10,7 @@ The source code is not public yet, though I may share it later.
 
 ## Run
 
-1. Extract the archive: `miniverse<version>`
+1. Extract the archive: `beneath_the_starsv<version>.zip`
 2. Run: `space map`
 
 ## Some screenshots
